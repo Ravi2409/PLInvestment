@@ -1,5 +1,4 @@
-
-?? Project Vision:
+Project Vision:
 ------------------
 Title: Dynamic Investment Portal for Stock Broking Franchise
 
@@ -14,10 +13,10 @@ Key Pillars:
 5. SEO-friendly and fast-loading pages
 6. Optional client login for lead or request tracking
 
-? Phase 1: Requirements Gathering
+Phase 1: Requirements Gathering
 ----------------------------------
 
-?? Functional Requirements
+Functional Requirements
 ---------------------------
 | Feature                 | Description                                                  |
 |------------------------|--------------------------------------------------------------|
@@ -31,7 +30,7 @@ Key Pillars:
 | Admin Panel (Optional) | To view leads, form entries, and export data                 |
 | Login System (Phase 2) | Authentication system for clients or admin                   |
 
-?? Non-Functional Requirements
+Non-Functional Requirements
 ------------------------------
 - Responsive Design (mobile/tablet/desktop)
 - Secure Form Handling and Document Uploads
@@ -40,7 +39,7 @@ Key Pillars:
 - CI/CD Integration via Jenkins
 - Source Control using GitHub
 
-?? Tech Stack (Proposed)
+Tech Stack (Proposed)
 -------------------------
 | Layer     | Tool/Technology          |
 |-----------|--------------------------|
@@ -54,17 +53,17 @@ Key Pillars:
 | File Upload | Cloudinary or Firebase |
 | Forms API | Getform or Formspree     |
 
-??? Project Structure (Eventually)
+Project Structure (Eventually)
 ----------------------------------
 investment-portal/
-??? client/                 # React/Next frontend
-??? server/                 # Node.js + Express backend
-??? .github/                # GitHub workflows
-??? Jenkinsfile             # Jenkins CI/CD pipeline
-??? README.md
-??? docs/                   # Architecture and API documentation
+client/                 # React/Next frontend
+server/                 # Node.js + Express backend
+.github/                # GitHub workflows
+Jenkinsfile             # Jenkins CI/CD pipeline
+README.md
+docs/                   # Architecture and API documentation
 
-?? Next Steps
+Next Steps
 -------------
 1. Initializing the GitHub repo with a basic structure
 2. Creating a detailed README.md with the vision and roadmap
